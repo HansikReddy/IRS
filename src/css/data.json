@@ -1,0 +1,102 @@
+{
+  "lanes": [
+    {
+      "draggable": false,
+      "id": "OPEN",
+      "title": "OPEN",
+      "label": "20/70",
+      "style": {
+        "width": 280
+      },
+      "cards": [
+        {
+          "id": "xyz",
+          "title": "xyz",
+          "label": "15 mins",
+          "description": ""
+        },
+        {
+          "id": "abc",
+          "title": "abc",
+          "label": "10 mins",
+          "description": ""
+        },
+        {
+          "id": "asd",
+          "title": "asd",
+          "label": "30 mins",
+          "description": ""
+        },
+        {
+          "id": "zxc",
+          "title": "zxc",
+          "label": "5 mins",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "id": "IN-PROGRESS",
+      "title": "IN-PROGRESS",
+      "label": "10/20",
+      "style": {
+        "width": 280
+      },
+      "cards": [
+        {
+          "id": "qwe",
+          "title": "qwe",
+          "label": "30 mins",
+          "description": "reason to reject"
+        }
+      ]
+    },
+    {
+      "id": "OPEN",
+      "title": "OPEN",
+      "label": "0/0",
+      "style": {
+        "width": 280
+      },
+      "cards": []
+    },
+    {
+      "id": "REJECTED",
+      "title": "REJECTED",
+      "style": {
+        "width": 280
+      },
+      "label": "2/5",
+      "cards": [
+        {
+          "id": "dfg",
+          "title": "dfg",
+          "label": "15 mins",
+          "description": ""
+        },
+        {
+          "id": "rty",
+          "title": "rty",
+          "label": "15 mins",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "id": "DONE",
+      "title": "DONE",
+      "style": {
+        "width": 280
+      },
+      "label": "1/1",
+      "cards": [
+        {
+          "id": "vbn",
+          "title": "vbn",
+          "label": "30 mins",
+          "description": ""
+        }
+      ]
+    }
+  ]
+}
